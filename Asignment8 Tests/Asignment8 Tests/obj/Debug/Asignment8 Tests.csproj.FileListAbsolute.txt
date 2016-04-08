@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\bin\Debug\Asignment8 Tests.dll
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\bin\Debug\Asignment8 Tests.pdb
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\bin\Debug\Assignment8.exe
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\bin\Debug\nunit.framework.dll
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\bin\Debug\Assignment8.pdb
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\bin\Debug\nunit.framework.xml
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\obj\Debug\Asignment8 Tests.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\obj\Debug\Asignment8 Tests.dll
+c:\users\user\documents\visual studio 2013\Projects\Asignment8 Tests\Asignment8 Tests\obj\Debug\Asignment8 Tests.pdb
